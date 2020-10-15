@@ -1,16 +1,21 @@
 ## BackEnd Test ##
-#### Implelment Rest Api .
+
+#### Implemented Rest Api .
+
 #### Features : ####
-1. displaying users and activity period in json format using drf.
+
+1.To Display all the users and their activity period in json fromat using drf.
 2. Populated dummy data by using custom management command . 
-3. Use Routers and Viewset
+3. Used Routers and Viewset.
 
 
 BackEndTest Live: http://backendtest.pythonanywhere.com/api/
 
-Admin Login Credential: username: tanu 
+## Admin Login Credentials
 
-password: @@backend@@
+# Username: tanu 
+
+# Password: @@backend@@
 
 
 
